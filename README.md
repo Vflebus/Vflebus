@@ -2,7 +2,7 @@
 
 ## Front-end JS developper based in Rennes.
 - 🔭 Currently available
-- 🌐 vincent-flebus.com
+- 🌐 https://vincent-flebus.com
 - 📧 vflebus@gmail.com
 
 
