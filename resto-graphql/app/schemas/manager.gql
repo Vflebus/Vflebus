@@ -1,0 +1,10 @@
+type Manager {
+    id: Int!
+    firstname: String!
+    lastname: String!
+    email: String!
+    #Un schema ca sert aussi de portail de sécurité, on peut ne pas déclarer un champ dans un schema graphql. Le shcema graphql et le schema de la base de données ne sont pas forcément les mêmes.
+    #password: String!
+    created_at: String!
+    updated_at: String
+}

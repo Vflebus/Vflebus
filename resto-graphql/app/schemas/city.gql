@@ -1,0 +1,8 @@
+type City {
+    id: Int!
+    name: String!
+    postal_code: String!
+    restaurants: [Restaurant]!
+    created_at: String!
+    updated_at: String
+}
