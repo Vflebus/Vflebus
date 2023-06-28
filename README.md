@@ -14,12 +14,6 @@
   <tr>
     <td align="center" width="100" height="100">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br/>Javascript
-    </td>
-    <td align="center" width="100" height="100">
-      <a href="#">
         <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="Next.js" />
       </a>
       <br/>React/Next.js
@@ -29,12 +23,6 @@
         <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
       </a>
       <br/>Redux
-    </td>
-    <td align="center" width="100" height="100">
-      <a href="#">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/12/python-logo.png" width="48" height="48" alt="Python" />
-      </a>
-      <br/>Python
     </td>
     <td align="center" width="100" height="100">
       <a href="#">
@@ -58,21 +46,9 @@
     </td>
     <td align="center" width="100" height="100">
       <a href="#">
-      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="48" height="48" alt="Node JS" />
-      </a>
-      <br/>NodeJS
-    </td>
-    <td align="center" width="100" height="100">
-      <a href="#">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="48" height="48" alt="Git" />
       </a>
       <br/>PostgreSQL
-    </td>
-    <td align="center" width="100" height="100">
-      <a href="#">
-        <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="48" height="48" alt="Bash" />
-      </a>
-      <br/>Bash
     </td>
   </tr>
 </table>
