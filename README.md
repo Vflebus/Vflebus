@@ -20,7 +20,7 @@
     </td>
     <td align="center" width="100" height="100">
       <a href="#">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
+        <img src="[https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png](https://brandlogos.net/wp-content/uploads/2022/07/next.js-logo_brandlogos.net_zeccw-768x768.png)" width="48" height="48" alt="Next.js" />
       </a>
       <br/>React
     </td>
