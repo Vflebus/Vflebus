@@ -1,4 +1,0 @@
-type Mutation {
-    createRestaurant(input: RestaurantCreateInput): Restaurant
-    updateRestaurant(id: Int!, input: RestaurantUpdateInput): Restaurant
-}
