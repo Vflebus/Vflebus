@@ -32,9 +32,9 @@
     </td>
     <td align="center" width="100" height="100">
       <a href="#">
-        <img src="https://brandlogos.net/wp-content/uploads/2012/04/php-logo-vector-01.png" width="48" height="48" alt="PHP" />
+        <img src="https://brandlogos.net/wp-content/uploads/2022/01/laravel-logo-brandlogo.net_-768x768.png" width="48" height="48" alt="Laravel" />
       </a>
-      <br/>PHP
+      <br/>Laravel
     </td>
   </tr>
   <tr>
