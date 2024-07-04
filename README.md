@@ -46,7 +46,7 @@
     </td>
     <td align="center" width="100" height="100">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="48" height="48" alt="SASS" />
+        <img src="https://avatars.githubusercontent.com/u/22632046?s=280&v=4" width="48" height="48" alt="Storybook" />
       </a>
       <br/>SASS
     </td>
