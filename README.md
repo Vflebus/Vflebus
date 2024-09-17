@@ -40,7 +40,7 @@
     </td>
     <td align="center" width="100" height="100">
       <a href="#">
-        <img src="https://brandlogos.net/wp-content/uploads/2023/11/tailwind_css-logo_brandlogos.net_v91ni-512x512.png" width="48" height="48" alt="Tailwind" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/768px-Tailwind_CSS_Logo.svg.png?20230715030042" width="48" height="48" alt="Tailwind" />
       </a>
       <br/>Tailwind
     </td>
