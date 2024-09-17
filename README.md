@@ -28,13 +28,7 @@
       <a href="#">
         <img src="https://brandlogos.net/wp-content/uploads/2022/01/vue.js-logo-brandlogo.net_-768x768.png" width="48" height="48" alt="Vue.js" />
       </a>
-      <br/>Vue.js
-    </td>
-    <td align="center" width="100" height="100">
-      <a href="#">
-        <img src="https://brandlogos.net/wp-content/uploads/2022/01/laravel-logo-brandlogo.net_-768x768.png" width="48" height="48" alt="Laravel" />
-      </a>
-      <br/>Laravel
+      <br/>Vue.js/Nuxt.js
     </td>
   </tr>
   <tr>
@@ -46,9 +40,23 @@
     </td>
     <td align="center" width="100" height="100">
       <a href="#">
+        <img src="https://brandlogos.net/wp-content/uploads/2023/11/tailwind_css-logo_brandlogos.net_v91ni-512x512.png" width="48" height="48" alt="Tailwind" />
+      </a>
+      <br/>Tailwind
+    </td>
+    <td align="center" width="100" height="100">
+      <a href="#">
         <img src="https://avatars.githubusercontent.com/u/22632046?s=280&v=4" width="48" height="48" alt="Storybook" />
       </a>
       <br/>SASS
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100" height="100">
+      <a href="#">
+      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="48" height="48" alt="Node JS" />
+      </a>
+      <br/>NodeJS
     </td>
     <td align="center" width="100" height="100">
       <a href="#">
@@ -58,9 +66,9 @@
     </td>
     <td align="center" width="100" height="100">
       <a href="#">
-      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="48" height="48" alt="Node JS" />
+        <img src="https://brandlogos.net/wp-content/uploads/2022/01/laravel-logo-brandlogo.net_-768x768.png" width="48" height="48" alt="Laravel" />
       </a>
-      <br/>NodeJS
+      <br/>Laravel
     </td>
   </tr>
 </table>
