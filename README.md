@@ -8,7 +8,8 @@
 
 ## Languages and Tools:
 
-> Most used developpment tools.<table>
+> Most used developpment tools.
+<table>
   <tr>
     <td align="center" width="100" height="100">
       <a href="#">
