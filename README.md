@@ -13,7 +13,7 @@
   <tr>
     <td align="center" width="100" height="100">
       <a href="#">
-        <img src="https://brandlogos.net/typescript-logo-vector-103516.html" width="48" height="48" alt="TypeScript" />
+        <img src="https://brandlogos.net/wp-content/uploads/2023/07/typescript-logo_brandlogos.net_hg0qh.png" width="48" height="48" alt="TypeScript" />
       </a>
     </td>
     <td align="center" width="100" height="100">
