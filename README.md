@@ -18,22 +18,22 @@
     </td>
     <td align="center" width="100" height="100">
       <a href="#">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React/Next.js" />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcR5U16C8yXgBpl7-Bc7Itjx3_LRl425zINA&s" width="48" height="48" alt="React/Next.js" />
       </a>
     </td>
     <td align="center" width="100" height="100">
       <a href="#">
-        <img src="https://brandlogos.net/wp-content/uploads/2022/01/vue.js-logo-brandlogo.net_-768x768.png" width="48" height="48" alt="Vue.js" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/3840px-Vue.js_Logo_2.svg.png" width="48" height="48" alt="Vue.js" />
       </a>
     </td>
     <td align="center" width="100" height="100">
       <a href="#">
-        <img src="https://brandlogos.net/wp-content/uploads/2022/01/laravel-logo-brandlogo.net_-768x768.png" width="48" height="48" alt="Laravel" />
+        <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="48" height="48" alt="Laravel" />
       </a>
     </td>
     <td align="center" width="100" height="100">
       <a href="#">
-      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="48" height="48" alt="Node JS" />
+      <img src="https://nodejs.org/static/logos/nodejsHex.svg" width="48" height="48" alt="Node JS" />
       </a>
     </td>
   </tr>
@@ -45,7 +45,7 @@
     </td>
     <td align="center" width="100" height="100">
       <a href="#">
-        <img src="https://brandlogos.net/wp-content/uploads/2023/11/tailwind_css-logo_brandlogos.net_v91ni-768x768.png" width="48" height="48" alt="Tailwind" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/960px-Tailwind_CSS_Logo.svg.png" width="48" height="48" alt="Tailwind" />
       </a>
     </td>
     <td align="center" width="100" height="100">
